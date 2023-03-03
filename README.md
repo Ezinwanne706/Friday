@@ -1,0 +1,2 @@
+# Friday
+Random data structures
